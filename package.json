@@ -1,0 +1,21 @@
+{
+  "name": "getbaddie",
+  "version": "2.0.0",
+  "description": "GetBaddie ♡ - Not just a dating app... It's a vibe. Real People • Real Vibes • No Rules",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve .",
+    "dev": "npx -y serve .",
+    "preview": "open index.html"
+  },
+  "keywords": [
+    "dating-app",
+    "baddie",
+    "dark-aesthetic",
+    "interactive-web",
+    "neon",
+    "vibe"
+  ],
+  "author": "GetBaddie Team (Founder: Chinmay Randwa)",
+  "license": "MIT"
+}
